@@ -1,16 +1,12 @@
-# Face Morphing API
-
-Backend API for face morphing application.
-
-## Endpoints
-
-- `GET /` - Health check
-- `POST /morph` - Morph two face images
-
-## Deploy
-
-Deployed on Render.com
-```
-
+---
+title: flutterFACEMORPH
+emoji: 🎭
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_port: 7860
 ---
 
+# Face Morphing API Backend
+
+FastAPI backend for Flutter face morphing app.
